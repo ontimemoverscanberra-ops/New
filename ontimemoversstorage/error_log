@@ -1,0 +1,12 @@
+[09-Nov-2024 13:55:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/ontimem7/public_html/wp-content/themes/ontimemoversstorage/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/ontimem7/public_html/wp-content/themes/ontimemoversstorage/404.php on line 12
+[09-Nov-2024 13:55:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/ontimem7/public_html/wp-content/themes/ontimemoversstorage/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/ontimem7/public_html/wp-content/themes/ontimemoversstorage/404.php on line 12
+[10-Nov-2024 10:49:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/ontimem7/public_html/wp-content/themes/ontimemoversstorage/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/ontimem7/public_html/wp-content/themes/ontimemoversstorage/404.php on line 12
